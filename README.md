@@ -1,4 +1,4 @@
-<h1>Greta Wostoupal Portfolio</h1>
+<h1>Greta Wostoupal</h1>
 
 <h3>About Me</h3>
   
